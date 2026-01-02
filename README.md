@@ -1,7 +1,6 @@
-- I’m Kanishka Chaturvedi 
-- Tech enthusiast 
-- Declare variables, not war.
-<!---
-kanishka710/kanishka710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+
+# Hi 👋, I'm Kanishka Chaturvedi  
+**🎓 Pre-Final Year Engineering Undergraduate** | **AI Enthusiast** | **Declaring variables, not war**
+
+</div>
