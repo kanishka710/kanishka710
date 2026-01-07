@@ -1,9 +1,14 @@
 <div align="center">
+  <h1>Kanishka Chaturvedi</h1>
+  <h3>Pre-Final Year Engineering Undergraduate</h3>
 
-# Hi 👋, I'm Kanishka Chaturvedi  
-**🎓 Pre-Final Year Engineering Undergraduate** | **AI Enthusiast** | **Declaring variables, not war**
-
+  <p>
+    <b>AI Enthusiast</b> • <b>Full-Stack Developer</b> • <i>Declare variables, not war</i>
+  </p>
 </div>
+
+---
+
 <p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -22,6 +27,6 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-
-
 </p>
+
+---
