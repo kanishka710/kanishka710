@@ -8,13 +8,15 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const me = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java],
-  tools: [React, Node, Fastapi, Flask],
-  Databases: ["mySQL", "PostgreSQL"]
-}
+```python
+class Developer:
+    def __init__(self):
+        self.pronouns = "she/her"
+        self.code = ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "Java"]
+        self.tools = ["React", "Node", "FastAPI", "Flask"]
+        self.databases = ["MySQL", "PostgreSQL"]
+
+me = Developer()
 ```
 
 <p align="center">
