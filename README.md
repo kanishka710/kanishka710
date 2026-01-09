@@ -20,9 +20,6 @@ const me = {
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="800">
 </p>
-<br><br>
-<!-- <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
-</p> -->
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazIwaTJhYTlsd3JvcTVzYTJpOWJxNWlibHVqMzB2NG0za3F3NDcwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Al9XitEIwGgLU9yMfS/giphy.gif" width="75">&nbsp;
 
 ---
