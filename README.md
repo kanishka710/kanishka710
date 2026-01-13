@@ -13,7 +13,7 @@ class Developer:
     def __init__(self):
         self.pronouns = "she/her"
         self.code = ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "Java"]
-        self.tools = ["React", "Node", "FastAPI", "Flask"]
+        self.tools = ["React", "Tailwind CSS", "FastAPI", "Flask"]
         self.databases = ["MySQL", "PostgreSQL"]
 
 me = Developer()
