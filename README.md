@@ -12,9 +12,10 @@
 class Developer:
     def __init__(self):
         self.pronouns = "she/her"
-        self.code = ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "Java"]
-        self.tools = ["React", "Tailwind CSS", "FastAPI", "Flask"]
-        self.databases = ["MySQL", "PostgreSQL"]
+        self.code = ["Python", "Java", "JavaScript", "TypeScript", "HTML", "CSS"]
+        self.tools = ["TensorFlow", "Keras", "Scikit-learn", "XGBoost", "Pytorch", "OpenCV",
+                      "LangChain", "LangGraph", "FastAPI", "Flask", "React", "Tailwind CSS"]
+        self.databases = ["MySQL", "PostgreSQL", "Pinecone"]
 
 me = Developer()
 ```
